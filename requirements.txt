@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+lxml
+playwright
+pypdf        # optional: page numbers on the contents page
+pytest       # optional: only for running the tests
